@@ -298,7 +298,7 @@ export default function Portfolio() {
           <div className="max-w-4xl animate-fade-in-up">
             <div className="text-5xl md:text-7xl font-bold mb-12">
               <TypewriterEffect
-                text="Hi, I'm Jenna Leigh"
+                text="Hi, I&apos;m Jenna Leigh"
                 className="bg-gradient-to-r from-[#4C1D95] via-[#7C3AED] to-[#A855F7] bg-clip-text text-transparent"
               />
             </div>
@@ -346,13 +346,13 @@ export default function Portfolio() {
                       My Journey
                     </h3>
                     <p className="text-lg text-gray-800 dark:text-gray-200 leading-relaxed">
-                    I’m a rising junior studying Computer Science, set to graduate in Spring 2027. After spending my first two years exploring Engineering, 
+                    I&apos;m a rising junior studying Computer Science, set to graduate in Spring 2027. After spending my first two years exploring Engineering, 
                     I discovered that my true passion and strengths lie in Computer Science. 
-                    Since then, I’ve been dedicated to turning my ideas into reality, with a dream to build projects that positively impact thousands of people. 
+                    Since then, I&apos;ve been dedicated to turning my ideas into reality, with a dream to build projects that positively impact thousands of people. 
                     </p>
                     <p className="text-lg text-gray-800 dark:text-gray-200 leading-relaxed">
                     I specialize in backend development using Java but also have a strong appreciation for clean, thoughtful visual design. 
-                    Writing clean, maintainable code is important to me, and I’m always eager to stay current with industry trends and best practices.
+                    Writing clean, maintainable code is important to me, and I&apos;m always eager to stay current with industry trends and best practices.
                     </p>
                     <p className="text-lg text-gray-800 dark:text-gray-200 leading-relaxed">
                       My approach combines technical expertise with creative problem-solving, always keeping the user
@@ -360,9 +360,9 @@ export default function Portfolio() {
                       believe that the best solutions come from combining different perspectives and expertise.
                     </p>
                     <p className="text-lg text-gray-800 dark:text-gray-200 leading-relaxed">
-                    When I’m not coding, you’ll find me baking delicious treats, getting lost in a good book, 
+                    When I&apos;m not coding, you&apos;ll find me baking delicious treats, getting lost in a good book, 
                     and playing piano. I also cherish spending time with friends over good food and great conversation, 
-                    whether it’s trying out new restaurants or revisiting old favorites. 
+                    whether it&apos;s trying out new restaurants or revisiting old favorites. 
                     </p>
                   </div>
                 </CardContent>
@@ -890,7 +890,7 @@ export default function Portfolio() {
                   Contact me
                 </h3>
                 <p className="text-gray-600 dark:text-gray-300 mb-10 text-xl leading-relaxed max-w-2xl mx-auto">
-                  I'm excited to get to know you!
+                  I&apos;m excited to get to know you!
                 </p>
                 <Button
                   onClick={() => navigateToPage("contact")}
@@ -976,7 +976,7 @@ const renderContactPage = () => (
           <div className="flex justify-start items-center h-14">
             <div className="flex items-center">
               <h1 className="text-xl font-bold bg-gradient-to-r from-[#4C1D95] via-[#7C3AED] to-[#A855F7] bg-clip-text text-transparent">
-                Jenna's Portfolio
+                Jenna&apos;s Portfolio
               </h1>
             </div>
 
