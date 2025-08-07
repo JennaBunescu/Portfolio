@@ -154,12 +154,12 @@ export default function Portfolio() {
     {
       title: "Baking",
       description: "",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "/images/baking.jpg",
     },
     {
       title: "Playing Piano",
       description: "",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "/images/piano.jpg",
     },
     {
       title: "Reading",
